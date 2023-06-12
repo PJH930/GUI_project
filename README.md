@@ -1,1 +1,1 @@
-# PyQT_project
+# GUI_project
