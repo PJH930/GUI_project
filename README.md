@@ -23,7 +23,9 @@
 * 간단하게 할 수 있도록 GUI로 구성하는것 입니다.</br>
 * ※ 프로젝트의 내용은 수정 될 수 있음..</br>
 
-https://github.com/PJH930/GUI_project/assets/117810524/c7a25a3d-5a77-43ee-90d0-eb489808de8d
+https://github.com/PJH930/GUI_project/assets/117810524/7a39b845-9872-483d-b8d6-89b829947267
+
+
 
 
 </br></br>
