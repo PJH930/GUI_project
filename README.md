@@ -4,7 +4,7 @@
 
 </br>
 진행중....</br>
-** 이미지와 텍스트 Segmentation model의 정답률을 시각화 해 줄 GUI 프로그램 제작 ## </br>
+** Segmentation model의 검출 정답률을 시각화해 줄 GUI 프로그램 제작 ## </br>
 
 </br></br></br></br>
 ## Project Info
