@@ -24,7 +24,9 @@
 
 
 
-https://github.com/PJH930/GUI_project/assets/117810524/42ca3410-f54e-443c-8ef6-7c05b77055a1
+https://github.com/PJH930/GUI_project/assets/117810524/59d35b30-90bd-458a-8910-483d2fa06c0d
+
+
 
 
 
