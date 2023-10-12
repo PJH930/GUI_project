@@ -32,6 +32,10 @@ https://github.com/PJH930/GUI_project/assets/117810524/9fb1f258-c139-4cbe-a9ae-c
 
 
 
+https://github.com/PJH930/GUI_project/assets/117810524/4c1f6c9a-cc32-4f2d-bdc1-2c440cca4cbf
+
+
+
 
 
 
